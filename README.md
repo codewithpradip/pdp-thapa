@@ -42,7 +42,7 @@ PDP THAPA is the responsive personal portfolio website template for showcasing y
 # How To Use
 1. Clone the repo
 ```bash
-git clone https://github.com/codewithpradip/PDP.git
+https://github.com/codewithpradip/PDP_THAPA.git
 ```
 2. OR you can download the repo.
 
